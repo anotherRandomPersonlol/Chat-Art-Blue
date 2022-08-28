@@ -493,6 +493,16 @@ game.StarterGui:SetCore("SendNotification", {
 	Text = 'Made by LabGuy94, edited by Roblox Player (YT)',
 	Icon = '',
 	Duration = 5,
+	game.StarterGui:SetCore("SendNotification", {
+    
+})
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Blue Chat art!",
+	Text = 'You are using blue chat art!',
+	Icon = '',
+	Duration = 5,
+	game.StarterGui:SetCore("SendNotification", {
+    
 })
 
 gmt.__namecall = newcclosure(function(self, ...)
