@@ -490,11 +490,9 @@ local oldNameCall = gmt.__namecall
 
 game.StarterGui:SetCore("SendNotification", {
     Title = 'Prefix your message with '.. prefix,
-	Text = 'Made by LabGuy94, edited by Roblox Player (YT)',
+	Text = 'Made by LabGuy94, edited by Roblox Player (YT) (Blue v.)',
 	Icon = '',
 	Duration = 5,
-	game.StarterGui:SetCore("SendNotification", {
-    
 })
 
 gmt.__namecall = newcclosure(function(self, ...)
